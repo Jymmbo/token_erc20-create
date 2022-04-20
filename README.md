@@ -1,6 +1,6 @@
 # Nola sortu ERC-20 token bat
 
-Ondorengo proiektu honetan, ERC-20 token bat sortzeko pausoak azalduko dira.
+Ondorengo proiektu honetan, ERC-20 token bat sortzeko pausoak azalduko dira. Horretarako, Smart Contract bat Ethereumeko Ropsten Testnet sarean hedatuko dugu.
 
 
 ## Aurrekariak: Metamasken instalazioa
